@@ -1,0 +1,55 @@
+equipment_id,site_id,line_id,equipment_type,make_model,criticality,install_date
+IMM-EIN-L1-01,EIN,L1,Injection Moulding Machine,Engel victory 200,B,2019-03-15
+IMM-EIN-L1-02,EIN,L1,Injection Moulding Machine,Engel victory 200,B,2020-03-15
+IMM-EIN-L1-03,EIN,L1,Injection Moulding Machine,Arburg 570 A,A,2021-03-15
+DRY-EIN-L1-01,EIN,L1,Resin Dryer,DryMax DX-400,A,2019-06-01
+TCU-EIN-L1-01,EIN,L1,Mould Temperature Controller,Thermocool TC-90,B,2020-02-10
+HPU-EIN-L1-01,EIN,L1,Hydraulic Power Unit,HydraPak HP-55,B,2018-11-20
+IMM-EIN-L2-01,EIN,L2,Injection Moulding Machine,Engel victory 200,B,2019-04-15
+IMM-EIN-L2-02,EIN,L2,Injection Moulding Machine,Engel victory 200,B,2020-04-15
+IMM-EIN-L2-03,EIN,L2,Injection Moulding Machine,Arburg 570 A,A,2021-04-15
+DRY-EIN-L2-01,EIN,L2,Resin Dryer,DryMax DX-400,A,2019-06-01
+TCU-EIN-L2-01,EIN,L2,Mould Temperature Controller,Thermocool TC-90,B,2020-02-10
+HPU-EIN-L2-01,EIN,L2,Hydraulic Power Unit,HydraPak HP-55,B,2018-11-20
+IMM-EIN-L3-01,EIN,L3,Injection Moulding Machine,Engel victory 200,B,2019-05-15
+IMM-EIN-L3-02,EIN,L3,Injection Moulding Machine,Engel victory 200,B,2020-05-15
+IMM-EIN-L3-03,EIN,L3,Injection Moulding Machine,Arburg 570 A,A,2021-05-15
+DRY-EIN-L3-01,EIN,L3,Resin Dryer,DryMax DX-400,A,2019-06-01
+TCU-EIN-L3-01,EIN,L3,Mould Temperature Controller,Thermocool TC-90,B,2020-02-10
+HPU-EIN-L3-01,EIN,L3,Hydraulic Power Unit,HydraPak HP-55,B,2018-11-20
+IMM-BRN-L1-01,BRN,L1,Injection Moulding Machine,Engel victory 200,B,2019-03-15
+IMM-BRN-L1-02,BRN,L1,Injection Moulding Machine,Engel victory 200,B,2020-03-15
+IMM-BRN-L1-03,BRN,L1,Injection Moulding Machine,Arburg 570 A,A,2021-03-15
+DRY-BRN-L1-01,BRN,L1,Resin Dryer,DryMax DX-400,A,2019-06-01
+TCU-BRN-L1-01,BRN,L1,Mould Temperature Controller,Thermocool TC-90,B,2020-02-10
+HPU-BRN-L1-01,BRN,L1,Hydraulic Power Unit,HydraPak HP-55,B,2018-11-20
+IMM-BRN-L2-01,BRN,L2,Injection Moulding Machine,Engel victory 200,B,2019-04-15
+IMM-BRN-L2-02,BRN,L2,Injection Moulding Machine,Engel victory 200,B,2020-04-15
+IMM-BRN-L2-03,BRN,L2,Injection Moulding Machine,Arburg 570 A,A,2021-04-15
+DRY-BRN-L2-01,BRN,L2,Resin Dryer,DryMax DX-400,A,2019-06-01
+TCU-BRN-L2-01,BRN,L2,Mould Temperature Controller,Thermocool TC-90,B,2020-02-10
+HPU-BRN-L2-01,BRN,L2,Hydraulic Power Unit,HydraPak HP-55,B,2018-11-20
+IMM-BRN-L3-01,BRN,L3,Injection Moulding Machine,Engel victory 200,B,2019-05-15
+IMM-BRN-L3-02,BRN,L3,Injection Moulding Machine,Engel victory 200,B,2020-05-15
+IMM-BRN-L3-03,BRN,L3,Injection Moulding Machine,Arburg 570 A,A,2021-05-15
+DRY-BRN-L3-01,BRN,L3,Resin Dryer,DryMax DX-400,A,2019-06-01
+TCU-BRN-L3-01,BRN,L3,Mould Temperature Controller,Thermocool TC-90,B,2020-02-10
+HPU-BRN-L3-01,BRN,L3,Hydraulic Power Unit,HydraPak HP-55,B,2018-11-20
+IMM-VAL-L1-01,VAL,L1,Injection Moulding Machine,Engel victory 200,B,2019-03-15
+IMM-VAL-L1-02,VAL,L1,Injection Moulding Machine,Engel victory 200,B,2020-03-15
+IMM-VAL-L1-03,VAL,L1,Injection Moulding Machine,Arburg 570 A,A,2021-03-15
+DRY-VAL-L1-01,VAL,L1,Resin Dryer,DryMax DX-400,A,2019-06-01
+TCU-VAL-L1-01,VAL,L1,Mould Temperature Controller,Thermocool TC-90,B,2020-02-10
+HPU-VAL-L1-01,VAL,L1,Hydraulic Power Unit,HydraPak HP-55,B,2018-11-20
+IMM-VAL-L2-01,VAL,L2,Injection Moulding Machine,Engel victory 200,B,2019-04-15
+IMM-VAL-L2-02,VAL,L2,Injection Moulding Machine,Engel victory 200,B,2020-04-15
+IMM-VAL-L2-03,VAL,L2,Injection Moulding Machine,Arburg 570 A,A,2021-04-15
+DRY-VAL-L2-01,VAL,L2,Resin Dryer,DryMax DX-400,A,2019-06-01
+TCU-VAL-L2-01,VAL,L2,Mould Temperature Controller,Thermocool TC-90,B,2020-02-10
+HPU-VAL-L2-01,VAL,L2,Hydraulic Power Unit,HydraPak HP-55,B,2018-11-20
+IMM-VAL-L3-01,VAL,L3,Injection Moulding Machine,Engel victory 200,B,2019-05-15
+IMM-VAL-L3-02,VAL,L3,Injection Moulding Machine,Engel victory 200,B,2020-05-15
+IMM-VAL-L3-03,VAL,L3,Injection Moulding Machine,Arburg 570 A,A,2021-05-15
+DRY-VAL-L3-01,VAL,L3,Resin Dryer,DryMax DX-400,A,2019-06-01
+TCU-VAL-L3-01,VAL,L3,Mould Temperature Controller,Thermocool TC-90,B,2020-02-10
+HPU-VAL-L3-01,VAL,L3,Hydraulic Power Unit,HydraPak HP-55,B,2018-11-20

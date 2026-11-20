@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0017565
+Priority: 3 - Moderate
+Opened: 2026-10-02 09:00:00
+Resolved: 2026-10-04 01:00:00
+Site: VAL
+Configuration item: IMM-VAL-L2-03
+Category: Process
+Assignment group: Production Engineering
+Short description: Flash on parts from IMM-VAL-L2-03
+Description: Excess flash at parting line
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

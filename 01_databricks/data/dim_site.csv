@@ -1,0 +1,4 @@
+site_id,site_name,country,timezone,plant_manager
+EIN,Eindhoven Plant,Netherlands,Europe/Amsterdam,Marieke de Vries
+BRN,Brno Plant,Czech Republic,Europe/Prague,Tomas Novak
+VAL,Valencia Plant,Spain,Europe/Madrid,Lucia Ferrer

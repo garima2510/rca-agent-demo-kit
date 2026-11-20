@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0015255
+Priority: 4 - Low
+Opened: 2025-05-21 05:00:00
+Resolved: 2025-05-23 00:00:00
+Site: VAL
+Configuration item: IMM-VAL-L2-02
+Category: Equipment
+Assignment group: Automation Support
+Short description: Robot gripper fault IMM-VAL-L2-02
+Description: Takeout robot dropping parts
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

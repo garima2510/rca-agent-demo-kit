@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0015830
+Priority: 2 - High
+Opened: 2025-09-03 14:05:00
+Resolved: 2025-09-03 22:00:00
+Site: VAL
+Configuration item: HPU-VAL-L2-01
+Category: Equipment
+Assignment group: Maintenance
+Short description: Line stopped - hydraulic hose rupture HPU-VAL-L2-01
+Description: High pressure hose burst; oil on floor; line 2 stopped.
+Close code: Solved (Permanently)
+Close notes: Hose replaced. Hose age 6 yrs, beyond 5-yr replacement interval. See RCA-2025-022.
+Problem: PRB0004502
+RCA reference: RCA-2025-022

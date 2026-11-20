@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0014062
+Priority: 4 - Low
+Opened: 2025-02-05 19:00:00
+Resolved: 2025-02-08 16:00:00
+Site: EIN
+Configuration item: IMM-EIN-L1-03
+Category: Software
+Assignment group: OT Support
+Short description: MES not receiving cycle counts from IMM-EIN-L1-03
+Description: OPC-UA connection drop
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

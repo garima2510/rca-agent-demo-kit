@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0016188
+Priority: 3 - Moderate
+Opened: 2025-05-18 21:00:00
+Resolved: 2025-05-21 20:00:00
+Site: VAL
+Configuration item: IMM-VAL-L1-01
+Category: Equipment
+Assignment group: Maintenance
+Short description: Mould temperature alarm IMM-VAL-L1-01
+Description: TCU over-temperature alarm
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0016122
+Priority: 3 - Moderate
+Opened: 2025-08-22 22:00:00
+Resolved: 2025-08-23 03:00:00
+Site: BRN
+Configuration item: IMM-BRN-L1-01
+Category: Equipment
+Assignment group: Production Engineering
+Short description: Short shots on IMM-BRN-L1-01
+Description: Short shot defects observed; suspected heater/pressure issue
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

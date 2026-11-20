@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0018143
+Priority: 3 - Moderate
+Opened: 2025-11-24 08:00:00
+Resolved: 2025-11-25 17:00:00
+Site: BRN
+Configuration item: IMM-BRN-L3-03
+Category: Equipment
+Assignment group: Maintenance
+Short description: Mould temperature alarm IMM-BRN-L3-03
+Description: TCU over-temperature alarm
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

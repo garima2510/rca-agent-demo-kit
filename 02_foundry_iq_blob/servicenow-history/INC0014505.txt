@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0014505
+Priority: 4 - Low
+Opened: 2025-07-01 10:00:00
+Resolved: 2025-07-03 09:00:00
+Site: EIN
+Configuration item: IMM-EIN-L1-03
+Category: Equipment
+Assignment group: Automation Support
+Short description: Robot gripper fault IMM-EIN-L1-03
+Description: Takeout robot dropping parts
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

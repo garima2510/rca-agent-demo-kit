@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0017140
+Priority: 2 - High
+Opened: 2026-04-02 11:10:00
+Resolved: 2026-04-02 18:00:00
+Site: EIN
+Configuration item: IMM-EIN-L1-02
+Category: Equipment
+Assignment group: Production Engineering
+Short description: Short shots and line stop IMM-EIN-L1-02
+Description: Zone 3 temperature unable to reach set point.
+Close code: Solved (Permanently)
+Close notes: Heater band zone 3 failed. Replaced. See RCA-2026-003.
+Problem: PRB0004701
+RCA reference: RCA-2026-003

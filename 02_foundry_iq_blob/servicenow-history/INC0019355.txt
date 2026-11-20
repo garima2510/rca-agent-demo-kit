@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0019355
+Priority: 2 - High
+Opened: 2026-10-15 13:10:00
+Resolved: 2026-10-15 18:45:00
+Site: VAL
+Configuration item: HPU-VAL-L1-01
+Category: Equipment
+Assignment group: Maintenance
+Short description: Hydraulic hose rupture HPU-VAL-L1-01, Line 1 stopped
+Description: Pressure dropped to ~118 bar, short shots then line stop.
+Close code: Solved (Work Around)
+Close notes: Hose replaced. RCA pending.
+Problem: 
+RCA reference: 

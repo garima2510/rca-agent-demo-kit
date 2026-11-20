@@ -1,0 +1,7 @@
+Teams channel export: "EIN Quality & Production" (SYNTHETIC DEMO DATA)
+
+[04-11-2026 06:55] Anouk Smit (Quality Manager EIN): Line 2 stopped, ~20k CVR-115 covers in quarantine. Customer delivery Friday 6 Nov at risk. Need root cause today.
+[04-11-2026 07:10] Sander Jansen (Maintenance): Dryer L2 dew point is at -16 C. PM on that dryer was deferred, cartridge not in stock. Could be same as Brno last year?
+[04-11-2026 07:22] Anouk Smit: Also lot 1187 is from Polymerix - same supplier as Valencia brittle bracket case. Did anyone check the CoA moisture?
+[04-11-2026 07:40] Goods receipt (Eindhoven): We don't check CoA moisture at EIN. CoA for 1187 says 0.046%.
+[04-11-2026 08:05] Marieke de Vries (Plant Manager): Please prepare RCA draft per SOP-RCA-001 for review tomorrow 09:00. Borrow a cartridge from Brno.

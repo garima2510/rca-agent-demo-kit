@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0014211
+Priority: 1 - Critical
+Opened: 2025-06-12 04:20:00
+Resolved: 2025-06-14 16:00:00
+Site: BRN
+Configuration item: IMM-BRN-L1-03
+Category: Quality
+Assignment group: Quality Engineering
+Short description: Splay / silver streaks on CVR-115 covers, Brno Line 1 - batches quarantined
+Description: Night shift found silver streaks and brittle failures in drop test on CVR-115. 3 batches quarantined. Customer shipment at risk.
+Close code: Solved (Permanently)
+Close notes: Root cause: resin dryer DRY-BRN-L1-01 desiccant saturated; dew point drifted to -15C. Desiccant replaced, alarm threshold lowered to -30C with interlock. See RCA-2025-014.
+Problem: PRB0004410
+RCA reference: RCA-2025-014

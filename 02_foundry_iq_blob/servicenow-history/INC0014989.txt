@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0014989
+Priority: 2 - High
+Opened: 2026-07-09 10:00:00
+Resolved: 2026-07-10 06:00:00
+Site: EIN
+Configuration item: IMM-EIN-L2-01
+Category: Process
+Assignment group: Production Engineering
+Short description: Flash on parts from IMM-EIN-L2-01
+Description: Excess flash at parting line
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0014264
+Priority: 2 - High
+Opened: 2025-05-19 04:00:00
+Resolved: 2025-05-19 23:00:00
+Site: VAL
+Configuration item: IMM-VAL-L1-01
+Category: Hardware
+Assignment group: IT Field Services
+Short description: Label printer offline line L1
+Description: Packaging label printer offline
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

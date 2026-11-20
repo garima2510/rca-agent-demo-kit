@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0014411
+Priority: 2 - High
+Opened: 2025-10-30 10:00:00
+Resolved: 2025-11-01 02:00:00
+Site: VAL
+Configuration item: IMM-VAL-L2-03
+Category: Equipment
+Assignment group: Maintenance
+Short description: Hydraulic oil leak IMM-VAL-L2-03
+Description: Minor oil leak at pump flange
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

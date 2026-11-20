@@ -1,0 +1,29 @@
+{
+  "resourceGroupName": "rg-rca-demo",
+  "location": "francecentral",
+  "prefix": "rcademo",
+  "modelSku": "GlobalStandard",
+  "models": [
+    {
+      "name": "rca-agent",
+      "model": "gpt-5.4",
+      "version": "2026-03-05",
+      "capacity": 10
+    },
+    {
+      "name": "rca-query-planner",
+      "model": "gpt-5.4-mini",
+      "version": "2026-03-17",
+      "capacity": 10
+    },
+    {
+      "name": "rca-embedding",
+      "model": "text-embedding-3-large",
+      "version": "1",
+      "capacity": 10
+    }
+  ],
+  "warehouseName": "RCA Demo Serverless",
+  "warehouseSize": "2X-Small",
+  "warehouseAutoStopMinutes": 5
+}

@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0017044
+Priority: 2 - High
+Opened: 2026-08-17 13:00:00
+Resolved: 2026-08-18 09:00:00
+Site: VAL
+Configuration item: IMM-VAL-L2-03
+Category: Software
+Assignment group: OT Support
+Short description: MES not receiving cycle counts from IMM-VAL-L2-03
+Description: OPC-UA connection drop
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

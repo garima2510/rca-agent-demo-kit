@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0017375
+Priority: 3 - Moderate
+Opened: 2025-12-13 08:00:00
+Resolved: 2025-12-13 18:00:00
+Site: EIN
+Configuration item: IMM-EIN-L1-02
+Category: Hardware
+Assignment group: IT Field Services
+Short description: Label printer offline line L1
+Description: Packaging label printer offline
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

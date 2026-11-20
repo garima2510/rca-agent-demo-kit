@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0016502
+Priority: 2 - High
+Opened: 2026-02-17 09:30:00
+Resolved: 2026-02-24 12:00:00
+Site: VAL
+Configuration item: IMM-VAL-L3-01
+Category: Quality
+Assignment group: Quality Engineering
+Short description: Brittle BRK-310 brackets - customer complaint, Valencia Line 3
+Description: Customer reported cracked brackets at assembly. Retained samples show low impact strength.
+Close code: Solved (Permanently)
+Close notes: Resin lot from Polymerix GmbH arrived with 0.05% moisture; drying time insufficient. Supplier CAPA raised; incoming CoA moisture check introduced at VAL. See RCA-2026-007.
+Problem: PRB0004633
+RCA reference: RCA-2026-007

@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0014658
+Priority: 3 - Moderate
+Opened: 2025-12-12 23:00:00
+Resolved: 2025-12-15 02:00:00
+Site: EIN
+Configuration item: IMM-EIN-L2-03
+Category: Equipment
+Assignment group: Maintenance
+Short description: Hydraulic oil leak IMM-EIN-L2-03
+Description: Minor oil leak at pump flange
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

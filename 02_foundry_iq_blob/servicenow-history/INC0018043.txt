@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0018043
+Priority: 3 - Moderate
+Opened: 2025-10-08 15:00:00
+Resolved: 2025-10-11 08:00:00
+Site: BRN
+Configuration item: IMM-BRN-L2-01
+Category: Software
+Assignment group: OT Support
+Short description: MES not receiving cycle counts from IMM-BRN-L2-01
+Description: OPC-UA connection drop
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

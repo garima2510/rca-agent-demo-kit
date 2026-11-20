@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0016827
+Priority: 2 - High
+Opened: 2026-08-07 17:00:00
+Resolved: 2026-08-07 20:00:00
+Site: EIN
+Configuration item: IMM-EIN-L3-03
+Category: Equipment
+Assignment group: Automation Support
+Short description: Robot gripper fault IMM-EIN-L3-03
+Description: Takeout robot dropping parts
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

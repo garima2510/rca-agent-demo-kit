@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0018077
+Priority: 2 - High
+Opened: 2026-06-22 07:45:00
+Resolved: 2026-06-25 10:00:00
+Site: BRN
+Configuration item: TCU-BRN-L2-01
+Category: Quality
+Assignment group: Production Engineering
+Short description: Sink marks and warpage HSG-220, Brno Line 2
+Description: Dimensional failures on HSG-220; mould temp uneven.
+Close code: Solved (Permanently)
+Close notes: Cooling channel partially blocked by scale. Flushed; water treatment check added to PM. See RCA-2026-009.
+Problem: PRB0004788
+RCA reference: RCA-2026-009

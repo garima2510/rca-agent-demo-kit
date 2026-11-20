@@ -1,0 +1,15 @@
+ServiceNow incident export (SYNTHETIC DEMO DATA)
+Number: INC0015744
+Priority: 3 - Moderate
+Opened: 2026-10-14 15:00:00
+Resolved: 2026-10-16 19:00:00
+Site: BRN
+Configuration item: IMM-BRN-L1-03
+Category: Equipment
+Assignment group: Maintenance
+Short description: Hydraulic oil leak IMM-BRN-L1-03
+Description: Minor oil leak at pump flange
+Close code: Solved (Permanently)
+Close notes: Fixed and verified by shift lead
+Problem: 
+RCA reference: 

@@ -1,0 +1,10 @@
+Fabrikam Components - Eindhoven Plant - Line 2 shift handover log (SYNTHETIC DEMO DATA)
+
+2026-10-30 Late  | Lead: R. Visser | New resin lot L-PC-26-1187 (Polymerix) received and loaded to dryer hopper DRY-EIN-L2-01 from 31-Oct early shift. Running normal.
+2026-10-31 Early | Lead: S. Jansen | Lot 1187 in use. All 3 machines running. Dryer PM still open - waiting for desiccant cartridge (purchasing says delivery mid Nov).
+2026-10-31 Night | Lead: D. Peeters | Normal. Dryer regeneration cycle seems longer than usual.
+2026-11-01 Early | Lead: S. Jansen | Few cosmetic streaks on CVR-115 from L2-03, within limit. Adjusted back pressure +5 bar.
+2026-11-01 Night | Lead: D. Peeters | Dryer L2 display shows dew point -29 C at 02:40, no alarm (alarm still at OEM default -20 C). Continued production.
+2026-11-02 Late  | Lead: R. Visser | Streaks increasing on all L2 machines. Increased melt temp +5 C on L2-01 and L2-02 - no improvement. Informed QC.
+2026-11-03 Early | Lead: S. Jansen | QC flagged 12% defects. Dryer dew point alarm (-20 C) active since ~05:00, acknowledged several times. Maintenance asked to look at dryer - no technician available until Monday.
+2026-11-04 Night | Lead: D. Peeters | Drop test failures. QC stopped line 2 at 03:00, all output since 1 Nov quarantined. P1 ticket INC0019874 raised.
